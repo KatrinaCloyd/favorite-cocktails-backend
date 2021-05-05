@@ -1,5 +1,8 @@
 # Cocktail Favorites B-E
 
+Backend for the Favorite Cocktails app. Saves users, and user favorites. 
+Hits public CocktailDB API for drink information and search results. 
+
 ## Endpoints
 
 - User Endpoints
